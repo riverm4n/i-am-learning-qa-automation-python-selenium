@@ -59,8 +59,6 @@ print ("You can also use some methods from the math library (remember to import 
 
 # Finished day 2 here. Next up is the class 16 onwards.
 
-# sequence tupes (strings, lists, tuple,...)
-
 # mapping type (dictionaries)
 
 # booleans (True, False)
